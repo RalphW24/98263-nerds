@@ -1,0 +1,26 @@
+body {
+  font: normal 16pt/24pt;
+  color: #283136;
+}
+.page-title {
+  font: 55pt/55pt roboto;
+  font-weight: 500;
+  color: #000000;
+}
+h2, .headline-social{
+  font: bold 36pt/36pt roboto;
+  color: #000000;
+}
+.advantage-title{
+  font: bold 24pt/30pt roboto;
+  color: #000000;
+  text-transform: uppercase;
+}
+.item-title, .contacts-title, .article-title {
+  font: bold 18pt/30pt robot;
+  color: #000000;
+  text-transform: uppercase;
+}
+.contacts {
+  background-image: url(img/map.jpg), url(img/map-marker.jpg);
+}
